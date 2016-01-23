@@ -4,14 +4,14 @@
         <title>Ad Stalker</title>
 
         <meta charset="utf-8">
-        <meta name="description" content="Boiler PHP">
+        <meta name="description" content="Ad Stalker">
         <meta name="keywords" content="">
 
-        <meta property="og:title" content="White Pike Whiskey Corporate Gifts" />
+        <meta property="og:title" content="Ad Stalker" />
         <meta property="og:type" content="article" />
-        <meta property="og:image" content="http://whitepike.frommother.com/version_010/img/sharethis.jpg" />
-        <meta property="og:url" content="http://whitepike.frommother.com/version_010/" />
-        <meta property="og:description" content="How do innovative companies impress their VIPs? By gifting them whiskey. Smooth." />
+        <meta property="og:image" content="http://getadstalker.com/img/sharethis.jpg" />
+        <meta property="og:url" content="http://getadstalker.com/" />
+        <meta property="og:description" content="Creepin while on the clock." />
         
         <link href='./css/reset.css' media='all' rel='stylesheet' type='text/css' />
         <link href='./css/main.css' media='all' rel='stylesheet' type='text/css' />
