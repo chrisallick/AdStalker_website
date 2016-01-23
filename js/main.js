@@ -4,8 +4,5 @@ $(window).load(function(){
 	});
 });
 
-var ie = false;
 $(document).ready(function() {
-
-	ie = getInternetExplorerVersion() > 0 : true ? false;
 });

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Boiler PHP</title>
+        <title>Ad Stalker</title>
 
         <meta charset="utf-8">
         <meta name="description" content="Boiler PHP">
@@ -43,13 +43,10 @@
     </head>
     <body>
         <div id="wrapper">
-
+            <div id="logo"></div>
+            <h1 id="tagline">Replace ads with the objects of your desire.</h1>
+            <img id="gif" src="./img/gif_fpo.png" />
+            <img id="getbutton" src="./img/getbutton.png" />
         </div>
-
-        <!--
-        <script src="//use.typekit.net/rwd0dqx.js"></script>
-        <script>try{Typekit.load();}catch(e){}</script>
-        -->
-        
     </body>
 </html>
