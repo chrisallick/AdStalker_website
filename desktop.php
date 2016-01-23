@@ -9,7 +9,7 @@
 
         <meta property="og:title" content="AdStalker" />
         <meta property="og:type" content="article" />
-        <meta property="og:image" content="http://getadstalker.com/img/share_this.png" />
+        <meta property="og:image" content="http://getadstalker.com/img/share_this.jpg" />
         <meta property="og:url" content="http://getadstalker.com/" />
         <meta property="og:description" content="Stalk Efficiently" />
 
@@ -18,7 +18,7 @@
         <meta name="twitter:domain" content="http://getadstalker.com">
         <meta name="twitter:title" content="AdStalker">
         <meta name="twitter:description" content="AdStalker: Stalk Efficiently http://getadstalker.com">
-        <meta name="twitter:image" content="http://getadstalker.com/img/share_this.png" />
+        <meta name="twitter:image" content="http://getadstalker.com/img/share_this.jpg" />
         
         <link href='./css/reset.css' media='all' rel='stylesheet' type='text/css' />
         <link href='./css/main.css' media='all' rel='stylesheet' type='text/css' />
