@@ -9,7 +9,7 @@
 
         <meta property="og:title" content="Ad Stalker" />
         <meta property="og:type" content="article" />
-        <meta property="og:image" content="http://getadstalker.com/img/sharethis.jpg" />
+        <meta property="og:image" content="http://getadstalker.com/img/share_this.png" />
         <meta property="og:url" content="http://getadstalker.com/" />
         <meta property="og:description" content="Creepin while on the clock." />
         
