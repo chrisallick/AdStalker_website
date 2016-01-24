@@ -15,7 +15,7 @@
         <meta property="og:type" content="article" />
         <meta property="og:image" content="http://getadstalker.com/img/share_this.jpg" />
         <meta property="og:url" content="http://getadstalker.com/" />
-        <meta property="og:description" content="Stalk Efficiently" />
+        <meta property="og:description" content="Replace ads with photos from your crush's Instagram. Stalk Efficiently." />
 
         <meta name="twitter:card" value="summary">
         <meta name="twitter:url" content="http://getadstalker.com"> 
