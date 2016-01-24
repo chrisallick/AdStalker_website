@@ -23,4 +23,8 @@ $(document).ready(function() {
 	t = setTimeout(function(){
 		swap();
 	}, 1500);
+
+	$("#info").click(function(event){
+		return false;
+	});
 });
