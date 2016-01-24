@@ -9,6 +9,8 @@
 
         <meta name="viewport" content="user-scalable=no, minimal-ui, initial-scale=1">
 
+        <link rel="icon" type="image/png" sizes="96x96" href="./favicon.png">
+
         <meta property="og:title" content="AdStalker" />
         <meta property="og:type" content="article" />
         <meta property="og:image" content="http://getadstalker.com/img/share_this.jpg" />
@@ -47,8 +49,7 @@
             <a id="facebook" class="social" href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('http://getadstalker.com'),'facebook-share-dialog','width=626,height=436'); return false;" target="_blank"><img src="./img/facebook.png" /></a>
             <div id="logo"></div>
             <h1 id="tagline">Stalk Efficiently</h1>
-            <img id="gif" src="./img/gif_fpo.png" />
-            <!-- <img id="getbutton" src="./img/getbutton.png" /> -->
+            <div id="gif"></div>
         </div>
     </body>
 </html>
