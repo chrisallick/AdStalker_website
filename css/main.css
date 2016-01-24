@@ -15,6 +15,7 @@ html, body { width: 100%; height: 100%; background-color: #FFF73F; }
 
 #logo { display: block; width: 111px; height: 64px; background: url("../img/logo.png") top left no-repeat; background-size: 100% 100%; margin: 0px auto 10px auto; -webkit-transform: scale(.7); }
 #tagline { text-align: center; font: normal 20px "andb"; margin-bottom: 35px; }
-#gif { display: block; width: 40%; min-width: 500px; height: auto; margin: 0px auto 60px auto; }
+#gif { display: block; width: 522px; height: 357px; margin: 0px auto 60px auto; background: url("../img/comp_001.png") top left no-repeat; background-size: 100% 100%; }
+#gif.on { display: block; width: 522px; height: 357px; margin: 0px auto 60px auto; background: url("../img/comp_002.png") top left no-repeat; background-size: 100% 100%; }
 #getbutton { cursor: pointer; display: block; width: 300px; height: auto; margin: 0 auto; -webkit-transition: all .150s; }
 #getbutton:hover { -webkit-transform: scale(.95); -webkit-transition: all .150s; }
