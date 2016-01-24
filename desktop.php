@@ -48,7 +48,10 @@
             <div id="logo"></div>
             <a href="#" id="info">?</a>
             <h1 id="tagline">Replace ads with photos from your crush's Instagram.</h1>
-            <div id="gif"></div>
+            <div id="gif">
+                <img class="one" src="./img/comp_001.png" />
+                <img class="two" src="./img/comp_002.png" />
+            </div>
             <a href="https://chrome.google.com/webstore/detail/adstalker/lddeomlbgljgdehglphimcjcbfbohlpa?hl=en&authuser=1"><img id="getbutton" src="./img/getbutton.png" /></a>
         </div>
     </body>
