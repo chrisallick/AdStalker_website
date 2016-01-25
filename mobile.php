@@ -50,6 +50,7 @@
             <div id="logo"></div>
             <h1 id="tagline">Replace ads with photos<br/>from your crush's Instagram.</h1>
             <div id="gif"></div>
+            <h2>(desktop only)
         </div>
     </body>
 </html>
